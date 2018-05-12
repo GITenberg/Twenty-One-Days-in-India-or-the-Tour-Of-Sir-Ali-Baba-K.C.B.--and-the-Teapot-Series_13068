@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4808
     wikipedia: http://en.wikipedia.org/wiki/George_Robert_Aberigh-Mackay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13068#Twenty-One-Days-in-India-or-the-Tour-Of-Sir-Ali-Baba-K.C.B.--and-the-Teapot-Series
 gutenberg_issued: '2004-07-31'
 gutenberg_type: Text
 identifiers:
